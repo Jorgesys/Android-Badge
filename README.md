@@ -1,10 +1,10 @@
 # Android-Badge
 
-How to create a badge in Android
+How to create a badge in Android 
 
 # What does it do?
 
-* 
+* Create a badge using ConstraintLayout
 
 # What does it look like?
 
